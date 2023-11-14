@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(54, 54, 54);
+    width: 700px;
+    margin: auto;
+}
+h1 {
+    color: cornflowerblue;
+    font-family: Verdana, sans-serif;
+}
+div{ 
+    background-color: white;
+    border-style: groove rgb(54, 54, 54);
+}
+h3 {
+    color: black;
+    font-family: Verdana, sans-serif;;
+    width: 670px;
+    margin: auto;
+}
+h4 {
+    color: rgb(78, 75, 75);
+    font-family: Verdana, sans-serif;;
+    width: 660px;
+    margin: auto;
+}
+form {
+    width: 200px;
+    margin: auto;
+
+}
